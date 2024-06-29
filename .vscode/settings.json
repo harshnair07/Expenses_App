@@ -1,0 +1,5 @@
+{
+    "git.confirmEmptyCommits": true,
+    "git.enabled": false,
+    "git.enableStatusBarSync": false
+}
